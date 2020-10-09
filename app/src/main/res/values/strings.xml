@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">lesson2_clic</string>
+    <string name="button1">Moscow</string>
+    <string name="button2">New York</string>
+    <string name="button3">Cheboksary</string>
+    <string name="button4">London</string>
+    <string name="button5">Tokyo</string>
+
+</resources>
